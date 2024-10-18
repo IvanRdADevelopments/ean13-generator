@@ -34,7 +34,7 @@ Code to create a virtual environment (code block):
 python -m venv venv
 ```
 
-Activate the virtual environment:
+### Activate the virtual environment:
 On Windows:
 Code to activate the virtual environment on Windows (code block):
 
@@ -54,7 +54,7 @@ source venv/bin/activate
 Install the dependencies from requirements.txt:
 
 Code to install dependencies (code block):
-´´´
+```
 pip install -r requirements.txt
 ```
 
