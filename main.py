@@ -4,7 +4,6 @@ import tkinter as tk
 from tkinter import messagebox
 import random
 import os
-import sys
 
 # Mapping unique numbers from given char
 char_to_number = {
