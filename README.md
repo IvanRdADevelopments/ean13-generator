@@ -78,7 +78,7 @@ If the barcode has already been generated, the program will show a warning.
 There's no need to modify the source code to generate the barcode. The program is ready to use and will automatically generate the PNG file.
 The .venv folder is not included in the repository. You will need to create your own virtual environment and ensure that the dependencies are installed.
 
-##Debugging
+### Debugging
 If you encounter any errors or issues during execution:
 
 Ensure that the dependencies are correctly installed with pip install -r requirements.txt.
