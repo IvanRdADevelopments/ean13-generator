@@ -3,9 +3,9 @@
 This project is an EAN-13 barcode generator that allows you to input an alphanumeric reference, convert it into a unique numeric format, and generate a PNG file with the corresponding barcode.
 
 ## Requirements
-List of requirements:
+List of requirements:  
 Python 3.6+  
-Python virtual environment (optional, but recommended) 
+Python virtual environment (optional, but recommended)  
 
 Dependencies listed in requirements.txt:  
 Code for dependencies (code block):
@@ -20,8 +20,6 @@ python-barcode==0.13.1
 Clone the repository to your local machine:
 
 Code to clone the repository (code block):
-
-bash
 ```
 git clone https://github.com/IvanRdADevelopments/ean13-generator.git
 cd ean13-generator
