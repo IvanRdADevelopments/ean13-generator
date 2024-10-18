@@ -1,0 +1,5 @@
+Requirement already satisfied: pillow==11.0.0 in c:\users\usuario\desktop\ivanrda\devs\projects\ean13-generator\venv\lib\site-packages (from -r C:\Users\Usuario\Desktop\IvanRdA\devs\projects\ean13-generator\requirements.txt (line 1)) (11.0.0)
+Requirement already satisfied: python-barcode==0.15.1 in c:\users\usuario\desktop\ivanrda\devs\projects\ean13-generator\venv\lib\site-packages (from -r C:\Users\Usuario\Desktop\IvanRdA\devs\projects\ean13-generator\requirements.txt (line 2)) (0.15.1)
+
+[notice] A new release of pip available: 22.3.1 -> 24.2
+[notice] To update, run: python.exe -m pip install --upgrade pip
