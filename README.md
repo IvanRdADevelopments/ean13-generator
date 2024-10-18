@@ -32,9 +32,9 @@ To isolate the project dependencies:
 Code to create a virtual environment (code block):
 ```
 python -m venv venv
-Activate the virtual environment:
 ```
 
+Activate the virtual environment:
 On Windows:
 Code to activate the virtual environment on Windows (code block):
 
